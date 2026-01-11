@@ -190,10 +190,4 @@ Future work includes improving robustness on artistic and stylized AI generation
 ---
 
 
-## 📂 Project Structure
-```text
-├── app.py                     # Streamlit Web Application
-├── phase3_effnet_final.pth    # Trained Model Weights
-├── requirements.txt           # Dependencies for Deployment
-├── training_notebook.ipynb    # Google Colab Training Process
-└── README.md                  # Project Documentation
+
